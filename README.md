@@ -6,6 +6,7 @@ A Python package that provides implementations of common data structures such as
 - Stack
 - Queue
 - Binary Tree
+- Array
 
 This package is designed to be an easy-to-use resource for anyone interested in learning or working with fundamental data structures in Python.
 

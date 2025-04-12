@@ -21,7 +21,7 @@ setup(
     python_requires='>=3.6', 
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url = 'https://github.com/Mahamat19/Mahamat_Data_Struct_Rep',
+    url = 'https://mahamat19.github.io/Mahamat_Data_Struct_Rep',
     license='MIT',
     
 )
