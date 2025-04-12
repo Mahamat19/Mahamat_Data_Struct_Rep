@@ -1,0 +1,48 @@
+# # User settings and config
+# .vscode/
+# Data_Struct/data_structures_Mht_py.egg-info
+# dist
+# ds
+
+
+# # macOS system files
+# .DS_Store
+# .localized
+# .CFUserTextEncoding
+
+# # Shell & user configs
+# .zsh_history
+# .zsh_sessions/
+# .zprofile
+# .zprofile.pysave
+# .lesshst
+# .viminfo
+
+# # Python/IDLE/IPython
+# .idlerc/
+# .ipython/
+
+# # VS Code
+# .vscode/
+
+# # User-level config
+# .config/
+# .gitconfig
+
+# # System folders
+# Applications/
+# Documents/
+# Downloads/
+# Library/
+# Movies/
+# Music/
+# Pictures/
+# Public/
+# Trash/
+
+# # Personal project folders (si tu ne veux pas les suivre)
+# Essai2-mahamat/
+# New2_Mht/
+# mahamat_project_1/
+# learning_git/
+# learning1_git/
